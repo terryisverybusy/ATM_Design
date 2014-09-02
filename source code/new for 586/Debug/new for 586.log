@@ -1,0 +1,31 @@
+﻿Build started 5/5/2014 5:12:16 PM.
+     1>Project "C:\Users\terry\documents\visual studio 2013\Projects\new for 586\new for 586\new for 586.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt AF.cpp ATM_1.cpp ATM_2.cpp ATM_3.cpp Action.cpp Driver.cpp MDA_EFSM.cpp op.cpp
+         op.cpp
+         MDA_EFSM.cpp
+         Driver.cpp
+         Action.cpp
+         AF.cpp
+         Generating Code...
+         Compiling...
+         ATM_3.cpp
+         ATM_2.cpp
+         ATM_1.cpp
+         Generating Code...
+       Link:
+         C:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\terry\documents\visual studio 2013\Projects\new for 586\Debug\new for 586.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\terry\documents\visual studio 2013\Projects\new for 586\Debug\new for 586.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\terry\documents\visual studio 2013\Projects\new for 586\Debug\new for 586.lib" /MACHINE:X86 Debug\Action.obj
+         Debug\AF.obj
+         Debug\ATM_1.obj
+         Debug\ATM_2.obj
+         Debug\ATM_3.obj
+         Debug\Driver.obj
+         Debug\DS.obj
+         Debug\MDA_EFSM.obj
+         Debug\op.obj
+         new for 586.vcxproj -> C:\Users\terry\documents\visual studio 2013\Projects\new for 586\Debug\new for 586.exe
+     1>Done Building Project "C:\Users\terry\documents\visual studio 2013\Projects\new for 586\new for 586\new for 586.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.98
